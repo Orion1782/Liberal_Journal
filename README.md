@@ -14,14 +14,13 @@ December <sup> 2024 </sup>
 
 **[Critics](https://en.wikipedia.org/wiki/Yi_Yi)**
 
+Discussion 1: About Preface, Introduction, and Chapter One.
+Key Words:
+
 
 ## 閲讀 Reading
-#### 《現代性與大屠殺》*Zygmunt Bauman, Modernity and Holocaust*
-May <sup> 2025 </sup>
+- #### [《現代性與大屠殺》*Zygmunt Bauman, Modernity and Holocaust*](Modernity&Holocaust.md)
 
-Discussion 1: About Preface, Introduction, and Chapter One.
-
-Key Words:
 
 
 ![image](https://github.com/user-attachments/assets/c49f8456-86e8-403d-b7ab-8d60f6fc403b)
