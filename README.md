@@ -1,6 +1,6 @@
 # Liberal Journal
-這是一份關於讀書會、電影會的repository. </p>
-> It is ***open sourced***, you are welcome to contribute your part.
+關於讀書會、電影會的repository. </p>
+> ***Open sourced***, welcome to contribute your parts.
 
 - ***[Screening](#觀影-screening)*** <br>
 - ***[Reading](#閲讀-reading)***
