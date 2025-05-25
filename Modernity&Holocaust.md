@@ -25,4 +25,6 @@ three processes to make the crime morally invisible:
 2) Making the victims invisible - killing at greater and greater distances
 3) Making the humanity of the person disappear.
 
+Psychological process: compartmentalization (defense machenism by divising into parts) of violance; 
+Consequence: avoid facing violence; taking violence as "cost benefit" form of acting.
 
