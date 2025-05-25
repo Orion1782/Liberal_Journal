@@ -14,14 +14,14 @@
 ## Introduction
 three conditions that erode moral inhibitions:
 
-1) Authority (authorization of violence, submitted to )
-2) Routinization (make the work routine, getting used to vialance)
+1) Authority (authorization of violence);
+2) Routinization (make the work routine, getting used to vialance);
 3) Dehumanization (or demoralization, excluding someone out of moral universe).
 
 
- three processes to make the crime morally invisible:
+three processes to make the crime morally invisible:
  
-1) Mediating the action of killing;
+1) Mediating the action of killing
 2) Making the victims invisible - killing at greater and greater distances
 3) Making the humanity of the person disappear.
 
