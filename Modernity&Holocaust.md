@@ -11,6 +11,18 @@
 ### Reading Materials
 - Re-read before every chapters: [Theory Notes on Modernity and the Holocaust](https://people.duke.edu/~jmoody77/TheoryNotes/mod_hol_1.htm) by Duke University
 
+## Introduction
+three conditions that erode moral inhibitions:
 
+1) Authority (authorization of violence, submitted to )
+2) Routinization (make the work routine, getting used to vialance)
+3) Dehumanization (or demoralization, excluding someone out of moral universe).
+
+
+ three processes to make the crime morally invisible:
+ 
+1) Mediating the action of killing;
+2) Making the victims invisible - killing at greater and greater distances
+3) Making the humanity of the person disappear.
 
 
